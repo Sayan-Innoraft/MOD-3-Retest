@@ -1,0 +1,12 @@
+uuid: 6af3f59c-6174-49d5-bca0-f91d83d53765
+langcode: en
+status: true
+dependencies: {  }
+id: contact_us
+label: 'Contact Us'
+recipients:
+  - admin@innoraft.com
+reply: ''
+weight: 0
+message: ''
+redirect: ''

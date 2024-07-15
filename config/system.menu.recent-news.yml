@@ -1,0 +1,8 @@
+uuid: 7b1d5cc7-b868-4950-8407-050f4481e123
+langcode: en
+status: true
+dependencies: {  }
+id: recent-news
+label: 'Recent News'
+description: ''
+locked: false

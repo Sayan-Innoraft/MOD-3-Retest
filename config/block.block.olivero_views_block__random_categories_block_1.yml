@@ -1,0 +1,24 @@
+uuid: 29cd5d28-4060-48c4-ad6f-d51bf63adffd
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.random_categories
+  module:
+    - views
+  theme:
+    - olivero
+id: olivero_views_block__random_categories_block_1
+theme: olivero
+region: header
+weight: -8
+provider: null
+plugin: 'views_block:random_categories-block_1'
+settings:
+  id: 'views_block:random_categories-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility: {  }
